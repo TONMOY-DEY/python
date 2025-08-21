@@ -8,8 +8,8 @@ a=[1,2,3,"naim","fahim",8.9,3.4]
 # print(len(a))
 
 
-# s="Hello"
-# print(list(s))
+s="Hello"
+print(list(s))
 
 a.append([1,2,3])
 print(a)
