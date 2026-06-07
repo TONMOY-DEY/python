@@ -23,7 +23,7 @@ Datathon_Practice_NSU/
 └── README.md        # Project documentation
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/Datathon_Practice_NSU.git
+git clonegit clone https://github.com/TONMOY-DEY/Datathon_Practice_NSU.git
 cd Datathon_Practice_NSU
 2️⃣ Install dependencies
 pip install pandas numpy scikit-learn
